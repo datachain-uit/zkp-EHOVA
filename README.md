@@ -51,7 +51,7 @@ zkp-EHOVA/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/ptvmarch26/zkp-EHOVA.git
+git clone https://github.com/datachain-uit/zkp-EHOVA
 cd zkp-EHOVA
 npm install
 ```
