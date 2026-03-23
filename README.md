@@ -210,3 +210,8 @@ http://localhost:8080/ipfs/QmXDZmPr5Fsb37qMbN3Jd3PSEp19mFsrEyt6BcFX3ABuKB
 ```
 
 Open the link in a browser to view the stored ballot data.
+
+## Contributors
+
+- **Leader**: M.Sc. IT. Khoa Tan VO
+- **Members**: Phi-Thong Vo-Van, Quang-Vu Pham
